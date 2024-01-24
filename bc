@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+    HTML DOM Input Text Object 
+</title>
+</head>
+<body>
+    <h1>bcom></h1>
+    <h3> Input Text </h3>
+    <input type="number" id="text_id" value="hello">
+
+    <p>Click on button to display the text field </p>
+    
